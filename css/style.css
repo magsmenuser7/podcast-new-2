@@ -1205,7 +1205,7 @@ p {
     overflow: hidden;
 }
 
-/* .background-image {
+.background-image {
   position: relative;
   width: 100%;
   height: auto;
@@ -1222,7 +1222,7 @@ p {
 
 .hero-sec {
     padding: 0em 0em 0em 0em !important;
-} */
+}
 
 
 @media(min-width:320px) and (max-width:480px){
